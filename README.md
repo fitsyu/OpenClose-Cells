@@ -3,7 +3,7 @@ Imagine, CMD+B, CMD+R, and Done! It's here..
 
 > the OpenClose Cells
 
-Demo [gif](openclose-cells.gif)
+<p align="center"> <img src="openclose-cells.gif"> </p>
 
 
 If I think about it, I found my self frequently in urge need for this kind of feature.
